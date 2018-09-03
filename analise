@@ -1,1 +1,5 @@
 
+-cadastros Jogadores(nome, idade, altura, peso, posição, time)
+-mapa de calor
+-dados(km percorridos, velociadade Maxima, defesa, gols marcados, passes( certos e errados) status(lesionado ou apto para jogo)
+-status clube
