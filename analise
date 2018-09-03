@@ -2,8 +2,8 @@
 nome dos jogadores, idade, altura, peso, posição em que o atleta joga e o time. Além disso, o sistema armazenará alguns dados dos atletas 
 como; km percorridos a media de velocidade que o jogador percorreu durante a partida, defesas e gols marcados, passes certos e errados, 
 um status para saber se o jogador esta apto a jogar ou lesionado. Essas informações será atualizadas para que o usuário possa estar a par 
-do seu time de preferencia. 
--cadastros Jogadores(nome, idade, altura, peso, posição, time)
--mapa de calor
--dados(km percorridos, velociadade Maxima, defesa, gols marcados, passes( certos e errados) status(lesionado ou apto para jogo)
--status clube
+do seu time de preferencia.
+
+- Ja para os requisitos não funcionais, o programa deverá ter a base de dados protegido para usuários autorizados para a manutenção do
+sistema. O software deve ser operacionalizado em mobile e o tempo de resposta do programa não deverá ultrapassar 30 segundos.
+
